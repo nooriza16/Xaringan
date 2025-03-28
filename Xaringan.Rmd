@@ -88,17 +88,26 @@ knitr::include_graphics('img/application.jpg')
 Fig 6 : Classificaition Findings. source :  M.P.Ferreiraetal., 2019
 ---
 # Application : Hydrocarbon (HC) Detection
-.pull-left[
-- <span style="color:darkblue;">**Crude oil and natural gas** </span> are among components composed by hydrocarbons.
-- Detecting HC using WorldView-3 is essential due to the **costly and small coverage** </span>  of airborne systems. 
-- Meanwhile, the orbital intruments are seldom used due to the <span style="color:darkblue;">**lack of spectral bands** </span> .
-- Despite the need for further research in aquatic environment, utilizing Remote Sensing imagery's global coverage is valuable for <span style="color:darkblue;"> **assisting and monitoring** </span>  large areas and diverse locations on Hydrocarbon application.]
- 
-```{r echo=FALSE, out.width='50%', fig.align='right'}
-knitr::include_graphics('img/rsz_1slide_3_0.jpg')
-```
-Fig 7 : Off-shore exploration. source: [ONYHM](https://www.onhym.com/en)
 
+.pull-left[
+
+<small><span style="font-size: 95%;" >1. **Crude oil and natural gas** are among components composed by hydrocarbons. </span></small>
+
+<small><span style="font-size: 95%;" > 2. Detecting HC using WorldView-3 is essential due to the **costly and small coverage** </span>  of airborne systems </span></small>
+
+
+<small><span style="font-size: 95%;" > 3. Meanwhile, the orbital intruments are seldom used due to the **lack of spectral bands** </span></small>
+
+<small><span style="font-size: 95%;" > 4. Despite the need for further research in aquatic environment, utilizing Remote Sensing imagery's global coverage is valuable for **assisting and monitoring** large areas and diverse locations on Hydrocarbon application. </span></small>
+]
+
+.pull-right[
+<img src="img/rsz_1slide_3_0.jpg" style="width: 1600px; height: 500;">
+<figcaption style="text-align: center; font-size: 14px;">
+ <a> Source: ONYHM, 2024 </a>
+</figcaption>
+
+]
 ---
 # Application : Hydrocarbon (HC) Detection
 
@@ -107,12 +116,13 @@ From this graph we could see the **performance** of different band ratios and RB
 ```{r echo=FALSE, out.width='80%', fig.align='center'}
 knitr::include_graphics('img/Screenshot 2025-02-16 121436.jpg')
 ```
- source : Asadzadeh and De Souza Filho (2016)
-
+<small><span style="font-size: 80%;" > source : Asadzadeh and De Souza Filho (2016) </span></small>
+ 
+<small><span style="font-size: 95%;" >
  - WorldView-3 could be work well to detect various HC based on  <span style="color:darkblue;">**varied geoglogy** </span> .
  - The presence of <span style="color:darkblue;">**clay minerals** </span> can affect band that is sensitive to HC type
  - Hydrocarbone detection in  <span style="color:darkblue;">**dolomite soils** </span> is easier compared to clayey soil
- - <span style="color:darkblue;">**Heavier crude oil** </span> (API 29) is harder to detect.
+ - <span style="color:darkblue;">**Heavier crude oil** </span> (API 29) is harder to detect. </span></small>
 
 ---
 # Thought on these...
@@ -127,11 +137,9 @@ knitr::include_graphics('img/Screenshot 2025-02-16 121436.jpg')
 # References
 
 
-Asadzadeh, S. and De Souza Filho, C. R. (2016) ‘Investigating the capability of WorldView-3 superspectral data for direct hydrocarbon detection’, Remote Sensing of Environment, 173, pp. 162–173. doi: 10.1016/j.rse.2015.11.030.
+<small><span style="font-size: 95%;" > Asadzadeh, S. and De Souza Filho, C. R. (2016) *‘Investigating the capability of WorldView-3 superspectral data for direct hydrocarbon detection’, Remote Sensing of Environment*, 173, pp. 162–173. doi: 10.1016/j.rse.2015.11.030.</span></small>
 
-Ferreira, M. P. et al. (2019) ‘Tree species classification in tropical forests using visible to shortwave infrared WorldView-3 images and texture analysis’, ISPRS Journal of Photogrammetry and Remote Sensing, 149, pp. 119–131. doi: 10.1016/j.isprsjprs.2019.01.019.
-
-
+<small><span style="font-size: 95%;" >Ferreira, M. P. et al. (2019) *‘Tree species classification in tropical forests using visible to shortwave infrared WorldView-3 images and texture analysis’*, ISPRS Journal of Photogrammetry and Remote Sensing, 149, pp. 119–131. doi: 10.1016/j.isprsjprs.2019.01.019.</span></small>
 
 
 
